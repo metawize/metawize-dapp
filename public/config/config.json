@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52a42b8930f4ef762839abc3efbe238cd0abea7e",
+  "SCAN_LINK": "https://polygonscan.com/token/0x52a42b8930f4ef762839abc3efbe238cd0abea7e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "METAWIZE NFT",
+  "SYMBOL": "MTWZ",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 104000000000000000000,
+  "DISPLAY_COST": 104,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collectioin/metawize",
+  "SHOW_BACKGROUND": true
+}
